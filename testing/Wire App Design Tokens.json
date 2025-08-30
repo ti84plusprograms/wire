@@ -1,0 +1,67 @@
+{
+    "colors": {
+        "sosRed": "#FF3B30",
+        "trustGreen": "#34C759",
+        "accentBlue": "#007AFF",
+        "backgroundLight": "#F9FAFB",
+        "backgroundDark": "#1C1C1E",
+        "textPrimary": "#111111",
+        "textSecondary": "#6B7280"
+    },
+    "typography": {
+        "fontFamily": "Inter",
+        "title": {
+            "fontSize": "24px",
+            "fontWeight": "700"
+        },
+        "subtitle": {
+            "fontSize": "18px",
+            "fontWeight": "500"
+        },
+        "body": {
+            "fontSize": "16px",
+            "fontWeight": "400"
+        },
+        "caption": {
+            "fontSize": "14px",
+            "fontWeight": "500"
+        }
+    },
+    "components": {
+        "button": {
+            "height": "48px",
+            "borderRadius": "12px",
+            "primary": {
+                "backgroundColor": "#FF3B30",
+                "textColor": "#FFFFFF"
+            },
+            "secondary": {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#FF3B30",
+                "textColor": "#FF3B30"
+            }
+        },
+        "input": {
+            "height": "44px",
+            "borderRadius": "10px",
+            "borderColor": "#D1D5DB",
+            "paddingHorizontal": "12px"
+        },
+        "toggle": {
+            "width": "52px",
+            "height": "32px",
+            "knobSize": "28px",
+            "onColor": "#34C759",
+            "offColor": "#D1D5DB"
+        }
+    },
+    "layout": {
+        "frame": {
+            "width": "393px",
+            "height": "852px"
+        },
+        "spacingUnit": "8px",
+        "marginHorizontal": "16px",
+        "safeTop": "44px"
+    }
+}

@@ -1,0 +1,18 @@
+:root {
+  --color-sosRed: #FF3B30;
+  --color-trustGreen: #34C759;
+  --color-accentBlue: #007AFF;
+  --color-backgroundLight: #F9FAFB;
+  --color-backgroundDark: #1C1C1E;
+  --color-textPrimary: #111111;
+  --color-textSecondary: #6B7280;
+  --typography-fontFamily: Inter;
+  --typography-title-fontSize: 24px;
+  --typography-title-fontWeight: 700;
+  --typography-subtitle-fontSize: 18px;
+  --typography-subtitle-fontWeight: 500;
+  --typography-body-fontSize: 16px;
+  --typography-body-fontWeight: 400;
+  --typography-caption-fontSize: 14px;
+  --typography-caption-fontWeight: 500;
+}
